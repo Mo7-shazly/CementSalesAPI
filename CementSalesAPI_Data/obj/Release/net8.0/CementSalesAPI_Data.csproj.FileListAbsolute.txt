@@ -1,0 +1,17 @@
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\bin\Release\net8.0\CementSalesAPI_Data.deps.json
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\bin\Release\net8.0\CementSalesAPI_Data.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\bin\Release\net8.0\CementSalesAPI_Data.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\bin\Release\net8.0\CementSalesAPI_Data.pdb
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\bin\Release\net8.0\CementSalesAPI_Entities.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\bin\Release\net8.0\CementSalesAPI_Entities.pdb
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSa.F65BE75C.Up2Date
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\refint\CementSalesAPI_Data.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.pdb
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\CementSalesAPI_Data.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Data\obj\Release\net8.0\ref\CementSalesAPI_Data.dll

@@ -1,0 +1,1 @@
+Data Source=.\\MSSQLSERVER02;Initial Catalog=CementSales;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False

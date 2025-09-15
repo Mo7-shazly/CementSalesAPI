@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\bin\Debug\net8.0\CementSalesAPI_Entities.deps.json
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\bin\Debug\net8.0\CementSalesAPI_Entities.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\bin\Debug\net8.0\CementSalesAPI_Entities.pdb
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\refint\CementSalesAPI_Entities.dll
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\CementSalesAPI_Entities.pdb
+C:\Users\DELL\OneDrive\Desktop\CementSalesAPI\CementSalesAPI_Entities\obj\Debug\net8.0\ref\CementSalesAPI_Entities.dll
